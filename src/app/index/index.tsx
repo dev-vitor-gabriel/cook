@@ -16,6 +16,10 @@ export default function Index() {
         Descubra receitas baseadas nos produtos que você escolheu.
       </Text>
 
+      <Text style={styles.message}>
+        Testando git.
+      </Text>
+
       <Ingredient />
     </View>
   );
